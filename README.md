@@ -4,4 +4,4 @@
 
 
 To see a demo video, click the screenshot. ====>
-[![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/LDF0SU0.png)](https://www.screencast.com/t/gFlinLmPo)
+[![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/LDF0SU0.png)](https://youtu.be/MgY5icTQ2aU)
