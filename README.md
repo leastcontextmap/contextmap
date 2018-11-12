@@ -4,7 +4,8 @@
 
 
 To see a demo video, click the screenshot. ====>
-[![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img.jpg)](https://youtu.be/MgY5icTQ2aU)
+
+[![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img.png)](https://youtu.be/MgY5icTQ2aU)
 [![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img.png)](https://youtu.be/ZJH_0W_lntg)
 [![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img.png)](https://youtu.be/aYetg89zF5I)
 [![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img.png)](https://youtu.be/rBAYBABRx88)
