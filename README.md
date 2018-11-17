@@ -1,8 +1,8 @@
 # Memory Based Image/Video Compression by Extracting the Least Context Map
+presented in the paper <Interpretable Image/Video Compression by Extracting the Least Context Map> (submitted to CVPR2019).
 
 ![image](https://github.com/leastcontextmap/contextmap/blob/master/img/concat_19_05_505-5601.gif)
 
-presented in the paper <Interpretable Image/Video Compression by Extracting the Least Context Map> (submitted to CVPR2019)
 To see a demo video, click the screenshot. ====>
 
 [![asciicast](https://github.com/leastcontextmap/contextmap/blob/master/img/video_img2.png)](https://youtu.be/MgY5icTQ2aU)
