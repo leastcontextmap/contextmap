@@ -1,4 +1,4 @@
-# Memory Based Image/Video Compression by Extracting the Least Context Map
+# Interpretable Image/Video Compression by Extracting the Least Context Map
 presented in the paper <Interpretable Image/Video Compression by Extracting the Least Context Map>.
 
 ![image](https://github.com/leastcontextmap/contextmap/blob/master/img/concat_19_05_505-5601.gif)
